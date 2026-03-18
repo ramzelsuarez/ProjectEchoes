@@ -3,12 +3,6 @@
 
 ---
 
-## Gameplay Preview
-
-*(Gameplay GIF or screenshot can be placed here)*
-
----
-
 ## Portfolio Use Notice
 
 This repository is shared publicly for **portfolio and recruitment purposes only**.
