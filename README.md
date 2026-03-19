@@ -3,12 +3,6 @@
 
 ---
 
-## Gameplay Preview
-
-*(Gameplay GIF or screenshot can be placed here)*
-
----
-
 ## Portfolio Use Notice
 
 This repository is shared publicly for **portfolio and recruitment purposes only**.
@@ -157,13 +151,18 @@ The architecture emphasizes **clean gameplay system separation and extensibility
 
 ---
 
-# Controls / 操作方法
+## Controls / 操作方法
 
-Keyboard
+### Keyboard
+- Movement (ASDF) — Character movement  
+- Enter — Confirm / Select  
+- Esc — Cancel / Back
+- E  — Interact
 
-Movement — Character movement  
-Enter — Confirm  
-Esc — Cancel / Back
+### Input & UI Navigation
+- Integrated Unreal Engine UI Navigation plugin  
+- Configured unified input handling for keyboard, mouse, and controller  
+- Ensured consistent UI navigation and interaction across all input methods  
 
 ※操作方法は開発中に変更される可能性があります。
 
