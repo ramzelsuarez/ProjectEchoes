@@ -1,4 +1,4 @@
-# 🎮 Project Vaelor
+# 🎮 Project Echoes
 **2.5D Fantasy JRPG | Unreal Engine 5 Gameplay / Systems Programming Portfolio Project**
 
 ---
@@ -17,7 +17,7 @@ Please **do not copy, reuse, redistribute, or submit this work as your own** for
 
 # Overview (English)
 
-**Project Vaelour** is a 2.5D fantasy JRPG developed as a personal **Unreal Engine 5 gameplay programming portfolio project**.
+**Project Echoes** is a 2.5D fantasy JRPG developed as a personal **Unreal Engine 5 gameplay programming portfolio project**.
 
 Inspired by classic HD-2D JRPGs, the project focuses on **turn-based battle systems, party mechanics, and modular UI architecture**.
 
@@ -34,7 +34,7 @@ The project emphasizes **system design and programming structure rather than lar
 
 # 概要（日本語）
 
-**『Project Vaelor』**は、Unreal Engine 5を使用して制作した  
+**『Project Echoes』**は、Unreal Engine 5を使用して制作した  
 **ゲームシステム実装を中心としたポートフォリオ用2.5DファンタジーJRPG**です。
 
 HD-2DスタイルのクラシックJRPGに影響を受け、主に以下のシステムを中心に開発しています。
